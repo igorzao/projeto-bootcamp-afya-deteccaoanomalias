@@ -1,0 +1,21 @@
+id_transacao,cliente,valor,categoria,canal,status,classificacao
+1,Cliente A,120.5,Alimentacao,Cartao,Aprovada,Normal
+2,Cliente B,89.9,Transporte,Pix,Aprovada,Normal
+3,Cliente C,230.0,Eletronicos,Cartao,Aprovada,Normal
+4,Cliente D,45.0,Alimentacao,Pix,Aprovada,Normal
+5,Cliente E,9999.99,Eletronicos,Cartao,Aprovada,Anomalia
+6,Cliente F,150.75,Saude,Pix,Aprovada,Normal
+7,Cliente G,65.3,Transporte,Cartao,Aprovada,Normal
+8,Cliente H,5000.0,Viagem,Cartao,Aprovada,Anomalia
+9,Cliente I,32.1,Alimentacao,Pix,Aprovada,Normal
+10,Cliente J,180.0,Saude,Cartao,Aprovada,Normal
+11,Cliente K,75.2,Transporte,Pix,Aprovada,Normal
+12,Cliente L,12000.0,Eletronicos,Cartao,Aprovada,Anomalia
+13,Cliente M,98.4,Alimentacao,Pix,Aprovada,Normal
+14,Cliente N,210.0,Saude,Cartao,Aprovada,Normal
+15,Cliente O,60.0,Transporte,Pix,Aprovada,Normal
+16,Cliente P,7000.0,Viagem,Cartao,Aprovada,Normal
+17,Cliente Q,130.0,Alimentacao,Cartao,Aprovada,Normal
+18,Cliente R,85.0,Transporte,Pix,Aprovada,Normal
+19,Cliente S,240.0,Eletronicos,Cartao,Aprovada,Normal
+20,Cliente T,55.0,Alimentacao,Pix,Aprovada,Normal
